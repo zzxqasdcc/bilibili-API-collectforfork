@@ -316,29 +316,6 @@ XML 序列格式：[传送门](https://www.w3school.com.cn/xml/xml_intro.asp)
 
 ProtoBuf 序列格式：[传送门](https://www.jianshu.com/p/a24c88c0526a)
 
-## 💦交流
-
-<img src="https://avatars.githubusercontent.com/u/45892418" width="100" height="100" />
-
-⚠注意：开源社群欢迎交流探讨，**拒绝**咨询、**不支持**合作，**黑产号**一经发现立即拉黑并举报相关 SRC
-
-- QQ 交流群：[邀请链接](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ympvb3LAPT-Ulu3ezhGqbkJ8zXMKImOX&authKey=z1KdkOdKO3wytN43m9K6On9nBtnDL4pAoD6VQHCipFBb9TasNDKuDHCmOE6TF3uc&noverify=0&group_code=191187164)
-- Telegram 交流群：[@bilibili_API_collect_community](https://t.me/bilibili_API_collect_community)
-
-## 🧋发电
-
-欢迎来~~交♂易~~，大家的支持就是我继续开发的动力！
-
-~~请可爱的易姐喝杯奶茶~~
-
-WeChat & Alipay：
-
-<img src="./assets/img/sponsorQR.jpg" width="300" height="300" />
-
-OR Aifadian：[https://afdian.com/@ShakaiAneE](https://afdian.com/@ShakaiAneE)
-
-## 🔗相关项目推荐
-
 ### 库及文档
 
 - [jingyuexing/bilibiliAPI](https://github.com/jingyuexing/bilibiliAPI)
